@@ -1,4 +1,4 @@
-## Markdown Examples
+# Markdown Examples
 
 - Headings
 - unordered list
@@ -10,3 +10,18 @@
 - images
 - autolists
 - lists
+## Unordered lists
+
+we can creat unordred list using hyphen
+- foo
++ bar
+## ordered lists
+
+1. foo
+1. bar
+
+## Text Formating
+
+_italics_
+**bold**
+~~stikethrough~~
